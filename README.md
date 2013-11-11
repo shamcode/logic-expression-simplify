@@ -5,8 +5,8 @@ Simplify logic expression
 
 Samples:
 ```
-(a == true) && (b == false) => a && !b
-(a && b) || (!a && !b) => a == b
-(a && b) || !a == true => !a || b
-(a && b) || a => a
+simplify('(a == true) && (b == false)') => 'a && !b'
+simplify('(a && b) || (!a && !b)') => 'a == b'
+simplify('(a && b) || !a == true') => '!a || b'
+simplify('(a && b) || a') => 'a'
 ```
