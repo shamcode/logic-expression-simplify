@@ -4,6 +4,7 @@ Simplify logic expression.
 
 ### Demo 
 Repo: https://github.com/shamcode/simplifier
+
 App: http://simplify.shamcode.ru
 
 ### Install
