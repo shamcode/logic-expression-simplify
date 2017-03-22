@@ -5,7 +5,7 @@ Simplify logic expression.
 ### Demo 
 Repo: https://github.com/shamcode/simplifier
 
-App: http://simplify.shamcode.ru
+App: http://simplifier.shamcode.ru
 
 ### Install
 ```bash
