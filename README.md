@@ -1,6 +1,10 @@
 # logic-expression-simplify
 
-Simplify logic expression. Demo app: https://github.com/shamcode/simplifier
+Simplify logic expression. 
+
+### Demo 
+Repo: https://github.com/shamcode/simplifier
+App: http://simplify.shamcode.ru
 
 ### Install
 ```bash
