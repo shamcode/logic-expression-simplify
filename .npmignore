@@ -1,1 +1,6 @@
+npm-debug.log
+.idea/*
 /src/
+/test/
+webpack.config.js
+/node_modules/

@@ -20,4 +20,7 @@ describe( 'Main', () => {
     it( 'b && true', () => {
         expect( simplify( 'b && true' ) ).to.be.equal( 'b' );
     } );
+    it( '!a && !b', () => {
+        expect( simplify( '!a && !b' ) ).to.be.equal( '!(a || b)' );
+    } );
 } );

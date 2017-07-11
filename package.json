@@ -1,6 +1,6 @@
 {
   "name": "logic-expression-simplify",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "lib/logic-expression-simplify.js",
   "browser": "lib/logic-expression-simplify.js",
   "repository": "https://github.com/shamcode/logic-expression-simplify",
